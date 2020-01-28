@@ -1,6 +1,6 @@
 ## How I will do this workshop?
 
-Try to tell a history
+Try to tell a history with the samples
 
 ## From the basics to my knoledge
 
@@ -41,5 +41,25 @@ Try to tell a history
 ## People reconmend me!
 
 - Talk more about Dockerfile instead of commands
-- When I should I use it
-- Kubernetes what it is
+- When/why I should I use it
+- Kubernetes what it is differences with Docker
+- CI
+- networks and how to make connection between them
+- how to persist the volumes
+
+- - -
+
+Aplicación #FullStack sencilla:
+🐳1 - NgineX
+- Config. básica.
+🐳2 - Cliente
+- Empaquetado.
+- Comunicación con 🐳1.
+🐳3 - Backend
+- Empaquetado.
+- Comunicación con 🐳1 y 🐳2.
+🐳4 - Base de datos
+- Conf. básica.
+- Preseeding.
+- Volúmenes.
+- Comunicación con 🐳3
