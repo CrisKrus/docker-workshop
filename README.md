@@ -5,6 +5,7 @@ Try to tell a history
 ## From the basics to my knoledge
 
 - Organized on layers
+- Instalation (?)
 - Docker hub
 - How to build our first image
 - How to inspect our containers
@@ -14,8 +15,8 @@ Try to tell a history
 - All the things, this only are notes :joy:
 - What project should I create
 - Check codely.tv course
-- Wich tecnologies
-- Docker cheatsheets
+- Technologies
+- Docker cheat sheet
 - study `docker-compose`
 
 ## How much time
