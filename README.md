@@ -1,3 +1,6 @@
+> [!WARNING]  
+> En construcción es un boceto de momento
+
 ## How I will do this workshop?
 
 Try to tell a history with the samples
